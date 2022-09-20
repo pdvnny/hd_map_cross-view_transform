@@ -1,0 +1,1 @@
+C:\Users\dvnny\anaconda3\envs\hd_map_cross-view\python.exe eval.py --type static --split argo --pretrained_path argoverse_model\static --data_path C:\Users\dvnny\DATA\hd_map_cross-view_transform\data\argoverse --out_dir C:\Users\dvnny\DATA\hd_map_cross-view_transform\output

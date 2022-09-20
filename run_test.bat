@@ -1,0 +1,1 @@
+C:\Users\dvnny\anaconda3\envs\hd_map_cross-view\python.exe test.py --type static --model_path argoverse_model\static --image_path C:\Users\dvnny\DATA\hd_map_cross-view_transform\test_images\Driving_Downtown_Vancouver_4K_Canada_mp4 --out_dir C:\Users\dvnny\DATA\hd_map_cross-view_transform\test_output\Driving_Downtown_Vancouver_4K_Canada_mp4
